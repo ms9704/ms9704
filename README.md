@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&langs_count=8)](https://github.com/깃허브아이디/github-readme-stats)
 
+   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
